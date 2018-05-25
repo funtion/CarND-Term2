@@ -1,0 +1,1 @@
+-L/mnt/d/udacity/nd013-part2/CarND-MPC-Project/build/Ipopt-3.12.7/lib -lipopt -llapack -lblas -lm  -ldl -lstdc++ -lm
